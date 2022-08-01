@@ -1,2 +1,2 @@
-## Guanabara
-Alguns exercícios e anotações (cursoemvideo.com)
+## Exercícios Py
+Alguns exercícios práticos em Python 🐍
